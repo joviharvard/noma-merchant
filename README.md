@@ -4,6 +4,8 @@ A repository with starter code for new frontend web projects at DEV
 
 ## Starting a New Project
 
+**NOTE: Delete this section in the README once you have started the new project**
+
 Run these commands to start a new project built off of this repository.
 
 ```bash

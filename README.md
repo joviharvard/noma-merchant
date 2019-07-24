@@ -15,6 +15,9 @@ $ git clone https://github.com/hsadev/react-frontend-starter.git <YOUR_PROJECT_N
 $ rm -rf .git # delete original git history
 $ git init # create new git repository
 $ git remote add origin <YOUR_PROJECT_GIT_REPOSITORY> # add remote for github repo
+$ git add . # stage all files to be commited
+$ git commit -m "Initial Commit" # set up the initial commit
+$ git push -u origin master # set the target branch and push to remote
 ```
 
 ## Project Structure
